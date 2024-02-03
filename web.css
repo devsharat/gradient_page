@@ -1,0 +1,118 @@
+/* #mainBox{
+    height: 400px;
+    border: 3px solid black;
+}
+
+.box{
+    height: 50px;
+    width: 50px;
+    border: 2px solid green;
+}
+
+#box1{
+    position: absolute;
+    top: 500px;
+}
+
+#box2{
+    position: relative;
+    top: 500px;
+}
+
+#box3{
+    position: static;
+}
+
+#box4{
+    position: sticky;
+} */
+
+/* .hi{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+#hi1{
+    background-color:red;
+    z-index: 1;
+    position: absolute;
+}
+#hi2{background-color:blue;
+    z-index: 2;
+}
+#hi3{background-color:brown;
+    z-index: 3;
+}
+#hi4{background-color:palevioletred;
+    z-index: 4;
+} */
+
+/* div{
+    border: 2px solid blue;
+}
+
+#div1{
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+    margin: 100px;
+}
+#div2{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+    padding: 0px;
+} */
+
+/* nav{
+    background-color: aquamarine;
+    height: 20%;
+}
+
+@media Screen and (min-width:0px) and (max-width:400px){
+    nav{
+        background-color: palevioletred;
+    }
+
+} */
+
+/* @media Screen and (min-width:401px) and (max-width:max){
+    nav{
+        background-color: rgb(107, 8, 236);
+    }
+
+} */
+
+nav{
+    display: flex;
+}
+
+/* *{
+    background-image: radial-gradient(left,black,pink);
+} */
+#skjb{
+    border: 1px solid black;
+    height:400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 50px;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg,black,blue,magenta);
+    top:400px;
+}
+#wegf{
+    margin-top: 150px;
+    margin-left: 150px;
+    color: white;
+}
+
+body{
+    background-image: linear-gradient(to left,black,magenta); 
+}
+#ewih{
+    margin-top: 50px;
+    margin-left: 100px;
+    color: white;
+    font-size: 40px;
+}
+
